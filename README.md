@@ -33,3 +33,8 @@
 ## 구조
 
 - 현재 예제 프로젝트는 mvc 패턴으로 진행해봄 (model,View, Controller)
+
+## Promise 연습
+
+- Promise => promise_ex 폴더 참고
+- async await => asyncex.js 참고
